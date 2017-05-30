@@ -14,6 +14,7 @@
     "jsonwebtoken": "^7.4.1",
     "mongoose": "^4.10.3",
     "morgan": "^1.8.2",
-    "mpromise": "^0.5.5"
+    "mpromise": "^0.5.5",
+    "q": "^1.5.0"
   }
 }
